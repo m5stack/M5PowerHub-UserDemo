@@ -1,0 +1,65 @@
+{
+    "body": {
+        "deviceToken": "d2ebdab9fbf24f2da01a926d5d75c2b4",
+        "name": "USB",
+        "value": {
+            "mode": 0,
+            "A": 0,
+            "current": "0A",
+            "B": 0,
+            "switch": 0,
+            "voltage": "4953V"
+        }
+    },
+    "cmd": 107,
+    "code": 200
+}
+{
+    "body": {
+        "deviceToken": "d2ebdab9fbf24f2da01a926d5d75c2b4",
+        "name": "USB",
+        "value": {
+            "mode": 0,
+            "A": 0,
+            "current": "0A",
+            "B": 0,
+            "switch": 1,
+            "voltage": "0V"
+        }
+    },
+    "cmd": 107,
+    "code": 200
+}
+{
+    "body": {
+        "deviceToken": "d2ebdab9fbf24f2da01a926d5d75c2b4",
+        "name": "USB",
+        "value": {
+            "mode": 0,
+            "A": 0,
+            "current": "0A",
+            "B": 0,
+            "switch": 1,
+            "voltage": "0V"
+        }
+    },
+    "cmd": 107,
+    "code": 200
+}
+
+{
+    "body": {
+        "deviceToken": "d2ebdab9fbf24f2da01a926d5d75c2b4",
+        "name": "USB.switch",
+        "value": {
+            "mode": 0,
+            "A": 0,
+            "current": "0A",
+            "B": 0,
+            "switch": 0,
+            "voltage": "0V"
+        }
+    },
+    "cmd": 107,
+    "code": 200
+}

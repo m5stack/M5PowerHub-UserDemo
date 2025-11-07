@@ -1,0 +1,17 @@
+{
+    "wifiSsid": "",
+    "wifiPass": "",
+    "startPoster": "",
+    "nickname": "PowerHub",
+    "postInterval": 5,
+    "timeZone": "GMT+0",
+    "usb": 0,
+    "uart": 0,
+    "rs485can": 0,
+    "i2c": 0,
+    "timerMode": 1,
+    "timeOfOn": 0,
+    "timeOfOff": 0,
+    "N": 0,
+    "timerIsDone": 1
+}

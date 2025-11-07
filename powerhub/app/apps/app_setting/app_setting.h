@@ -1,0 +1,28 @@
+/*
+ * SPDX-FileCopyrightText: 2025 M5Stack Technology CO LTD
+ *
+ * SPDX-License-Identifier: MIT
+ */
+#pragma once
+#include <mooncake.h>
+
+/**
+ * @brief 派生 App
+ *
+ */
+class AppSetting : public mooncake::AppAbility {
+public:
+    AppSetting();
+
+    // 重写生命周期回调
+    void onCreate() override;
+    void onOpen() override;
+    void onRunning() override;
+    void onClose() override;
+
+    // 添加静态变量
+    static bool is_opened;
+
+private:
+    bool _is_opened = false;
+};

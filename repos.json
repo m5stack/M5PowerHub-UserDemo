@@ -1,0 +1,12 @@
+[
+    {
+        "url": "https://github.com/Forairaaaaa/mooncake.git",
+        "path": "dependencies/mooncake",
+        "branch": "v2.1.0"
+    },
+    {
+        "url": "https://github.com/Forairaaaaa/mooncake_log.git",
+        "path": "dependencies/mooncake_log",
+        "branch": "v1.0.0"
+    }
+]

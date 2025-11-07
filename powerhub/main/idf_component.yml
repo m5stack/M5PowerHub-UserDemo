@@ -1,0 +1,7 @@
+## IDF Component Manager Manifest File
+dependencies:
+  ## Required IDF version
+  idf: '>=5.3'
+  espressif/arduino-esp32: 3.2.0
+  esp32async/asynctcp: ^3.4.4
+  esp32async/espasyncwebserver: ^3.7.8
